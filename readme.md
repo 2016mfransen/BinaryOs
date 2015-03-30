@@ -4,10 +4,6 @@ An Operating System for **OpenComputers** created by 2016mfransen that is graphi
 
 Features
 --------
-
-
-----------
-
  - Graphically Pleasing Operating System
  - Graphical oppm interface (OpenPrograms Package Manager)
  - Pastebin Program with login support
@@ -17,10 +13,8 @@ Features
  - Rich Text Editor (Markdown)
  - Lua IDE
  - OPPM AutoUpdater
-## Todo ##
-
-
-----------
+TODO
+--------
  1. ~~Clone OpenOS~~
  2. Remove Unnecessary parts from OpenOS
  3. Build Graphical API
