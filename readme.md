@@ -14,8 +14,9 @@ Features
  - Rich Text Editor (Markdown)
  - Lua IDE
  - OPPM AutoUpdater
-TODO
+Todo
 --------
+
  1. ~~Clone OpenOS~~
  2. Remove Unnecessary parts from OpenOS
  3. Build Graphical API
