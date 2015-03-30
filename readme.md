@@ -4,6 +4,7 @@ An Operating System for **OpenComputers** created by 2016mfransen that is graphi
 
 Features
 --------
+
  - Graphically Pleasing Operating System
  - Graphical oppm interface (OpenPrograms Package Manager)
  - Pastebin Program with login support
